@@ -1,40 +1,43 @@
-# certificate
+# Certificate
 
-# A collapsible section containing markdown
+# Coursera
 <details>
   <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+
+  ## HTML, CSS, and Javascript for Web Developers
+  <details>
+  <summary>Click to expand!</summary>
+    <img src="images/Web dev.jpg">
+  </details>
+
+  ## Java Programming: Solving Problems with Software
+  <details>
+  <summary>Click to expand!</summary>
+    <img src="images/Java.jpg">
+  </details>
+
+  ## C++ For C Programmers, Part A
+  <details>
+  <summary>Click to expand!</summary>
+    <img src="images/C++.jpg">
+  </details>
+
+  ## Algorithms, Part I
+  <details>
+  <summary>Click to expand!</summary>
+    <img src="images/Algo.jpg">
+  </details>
+
 </details>
 
-# A collapsible section containing code
+# Cisco Networking Academy
 <details>
   <summary>Click to expand!</summary>
-  
-  ```javascript
-    function logSometing(something) {
-      console.log(`Logging: ${something}`);
-    }
-  ```
-</details>
 
-# How to structure
-```
-# A collapsible section with markdown
-<details>
+  ## PCAP: Programming Essentials in Python
+  <details>
   <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+    <img src="images/PCAP.jpg">
+  </details>
+
 </details>
-```
-**Two important rules:**
-1. Make sure you have an **empty line** after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.
-2. Make sure you have an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.
