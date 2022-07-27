@@ -183,14 +183,14 @@
 
   <details>
     <summary>
-    <h2>&emsp;18. The DevOps Essentials - The Handbook</h2>
+    <h2>&emsp;19. The DevOps Essentials - The Handbook</h2>
     </summary>
     <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-25b1b5c4-14ea-45b3-944d-741ecedbf758.jpg">
   </details>
 
   <details>
     <summary>
-    <h2>&emsp;18. AWS Essentials</h2>
+    <h2>&emsp;20. AWS Essentials</h2>
     </summary>
     <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fb29beae-d26c-4175-886c-845b16fe1a94.jpg">
   </details>
